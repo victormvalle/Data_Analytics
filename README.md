@@ -9,7 +9,7 @@ This is the portfolio of all class assignments I have completed in Data Analytic
    - [A1: Markdown CV](html/markdown_cv.html)
    
 2. **Module 2: Fundamentals of Programming for Data Analysis**
-   - [A2 Programming Fundamentals](html/programming_fundamentals.html)
+   - [A2 Programming Fundamentals](02_Programming_Fundamentals/programming_fundamentals.html)
    
 3. **Module 3: Working with Data**
    - [A3 Work with data Yelp Reviews](html/yelp_reviews.html)
