@@ -1,4 +1,4 @@
-# Data Analytics Portfolio
+# ANLY 4100: Data Analytics I Portfolio
 This is the portfolio of all class assignments I have completed in Data Analytics.
 
 ## My Résumé
